@@ -1,2 +1,1 @@
-# Simple-Blockchain
-Proof of consept for a blockchain
+#Collection of small projects that i remembered to save.
